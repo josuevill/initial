@@ -1,4 +1,4 @@
-# "Aprendiendo Go" con un projecto
+# "Aprendiendo Go" con un proyecto
 
 Este es un simple API utilizando go y como base de datos postgres
 
